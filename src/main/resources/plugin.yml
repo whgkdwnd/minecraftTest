@@ -1,0 +1,6 @@
+name: MinecraftTest
+version: '${version}'
+main: dev.minecrafttest.MinecraftTestPlugin
+api-version: '1.21'
+description: 마인크래프트 테스트 플러그인
+author: YourName
